@@ -71,3 +71,9 @@ A complete **AI-powered nutrition assistant** featuring:
 
 **Frank Kane** - Ex-Amazon/IMDb, 17 patents in ML, 1M+ students  
 **Zoltan C. Toth** - 20+ years AI infrastructure, Ex-Databricks instructor
+
+
+## Optional
+
+python -m ensurepip --default-pip
+python -m pip install --upgrade pip 
