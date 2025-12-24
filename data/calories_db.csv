@@ -1,0 +1,94 @@
+FoodCategory,FoodItem,per100grams,Cals_per100grams,KJ_per100grams
+Fruits,Acai,100g,70 cal,294 kJ
+Fruits,Apple,100g,52 cal,218 kJ
+Fruits,Applesauce,100g,68 cal,286 kJ
+Fruits,Apricot,100g,48 cal,202 kJ
+Fruits,Avocado,100g,160 cal,672 kJ
+Fruits,Banana,100g,89 cal,374 kJ
+Fruits,Blackberries,100g,43 cal,181 kJ
+Fruits,Blood Oranges,100g,50 cal,210 kJ
+Fruits,Blueberries,100g,57 cal,239 kJ
+Fruits,Cantaloupe,100g,34 cal,143 kJ
+Fruits,Cherries,100g,50 cal,210 kJ
+Fruits,Clementine,100g,47 cal,197 kJ
+Fruits,Cranberries,100g,46 cal,193 kJ
+Fruits,Currants,100g,56 cal,235 kJ
+Fruits,Custard Apple,100g,101 cal,424 kJ
+Fruits,Dates,100g,282 cal,1184 kJ
+Fruits,Figs,100g,74 cal,311 kJ
+Fruits,Fruit salad,100g,50 cal,210 kJ
+Fruits,Grapes,100g,69 cal,290 kJ
+Fruits,Greengage,100g,41 cal,172 kJ
+Fruits,Guava,100g,68 cal,286 kJ
+Fruits,Jackfruit,100g,95 cal,399 kJ
+Fruits,Jujube,100g,79 cal,332 kJ
+Fruits,Kiwi,100g,61 cal,256 kJ
+Fruits,Lemon,100g,29 cal,122 kJ
+Fruits,Lime,100g,30 cal,126 kJ
+Fruits,Lychees,100g,66 cal,277 kJ
+Fruits,Mandarin Oranges,100g,53 cal,223 kJ
+Fruits,Mango,100g,60 cal,252 kJ
+Fruits,Minneola,100g,64 cal,269 kJ
+Fruits,Mulberries,100g,43 cal,181 kJ
+Fruits,Nectarine,100g,44 cal,185 kJ
+Fruits,Olives,100g,115 cal,483 kJ
+Fruits,Orange,100g,47 cal,197 kJ
+Fruits,Papaya,100g,43 cal,181 kJ
+Fruits,Passion Fruit,100g,97 cal,407 kJ
+Fruits,Peach,100g,39 cal,164 kJ
+Fruits,Pear,100g,57 cal,239 kJ
+Fruits,Persimmon,100g,127 cal,533 kJ
+Fruits,Physalis,100g,49 cal,206 kJ
+Fruits,Pineapple,100g,50 cal,210 kJ
+Fruits,Plantains,100g,122 cal,512 kJ
+Fruits,Plum,100g,46 cal,193 kJ
+Fruits,Pomegranate,100g,83 cal,349 kJ
+Fruits,Quince,100g,57 cal,239 kJ
+Fruits,Raisins,100g,299 cal,1256 kJ
+Fruits,Rambutan,100g,82 cal,344 kJ
+Fruits,Raspberries,100g,52 cal,218 kJ
+Fruits,Rhubarb,100g,21 cal,88 kJ
+Fruits,Starfruit,100g,31 cal,130 kJ
+Fruits,Strawberries,100g,32 cal,134 kJ
+Fruits,Tamarind,100g,239 cal,1004 kJ
+Fruits,Tangerine,100g,53 cal,223 kJ
+Fruits,Watermelon,100g,30 cal,126 kJ
+Tropical&ExoticFruits,Acerola,100g,32 cal,134 kJ
+Tropical&ExoticFruits,Asian Pear,100g,42 cal,176 kJ
+Tropical&ExoticFruits,Avocado,100g,160 cal,672 kJ
+Tropical&ExoticFruits,Banana,100g,89 cal,374 kJ
+Tropical&ExoticFruits,Breadfruit,100g,103 cal,433 kJ
+Tropical&ExoticFruits,Cantaloupe Melon,100g,34 cal,143 kJ
+Tropical&ExoticFruits,Casaba Melon,100g,28 cal,118 kJ
+Tropical&ExoticFruits,Cherimoya,100g,75 cal,315 kJ
+Tropical&ExoticFruits,Dragon Fruit,100g,60 cal,252 kJ
+Tropical&ExoticFruits,Durian,100g,147 cal,617 kJ
+Tropical&ExoticFruits,Feijoa,100g,55 cal,231 kJ
+Tropical&ExoticFruits,Galia Melon,100g,23 cal,97 kJ
+Tropical&ExoticFruits,Grapefruit,100g,42 cal,176 kJ
+Tropical&ExoticFruits,Guava,100g,68 cal,286 kJ
+Tropical&ExoticFruits,Honeydew,100g,36 cal,151 kJ
+Tropical&ExoticFruits,Jackfruit,100g,95 cal,399 kJ
+Tropical&ExoticFruits,Kiwi,100g,61 cal,256 kJ
+Tropical&ExoticFruits,Kumquat,100g,71 cal,298 kJ
+Tropical&ExoticFruits,Lychee,100g,66 cal,277 kJ
+Tropical&ExoticFruits,Mandarin Oranges,100g,53 cal,223 kJ
+Tropical&ExoticFruits,Mango,100g,60 cal,252 kJ
+Tropical&ExoticFruits,Mangosteen,100g,73 cal,307 kJ
+Tropical&ExoticFruits,Maracuya,100g,97 cal,407 kJ
+Tropical&ExoticFruits,Maraschino Cherries,100g,165 cal,693 kJ
+Tropical&ExoticFruits,Muskmelon,100g,34 cal,143 kJ
+Tropical&ExoticFruits,Noni,100g,53 cal,223 kJ
+Tropical&ExoticFruits,Passion Fruit,100g,97 cal,407 kJ
+Tropical&ExoticFruits,Pineapple,100g,50 cal,210 kJ
+Tropical&ExoticFruits,Pink Grapefruit,100g,42 cal,176 kJ
+Tropical&ExoticFruits,Plantain,100g,122 cal,512 kJ
+Tropical&ExoticFruits,Pomegranate,100g,83 cal,349 kJ
+Tropical&ExoticFruits,Pomelo,100g,38 cal,160 kJ
+Tropical&ExoticFruits,Prickly Pear,100g,41 cal,172 kJ
+Tropical&ExoticFruits,Rambutan,100g,82 cal,344 kJ
+Tropical&ExoticFruits,Sapodilla,100g,83 cal,349 kJ
+Tropical&ExoticFruits,Soursop Fruit,100g,66 cal,277 kJ
+Tropical&ExoticFruits,Star Fruit,100g,31 cal,130 kJ
+Tropical&ExoticFruits,Tamarind,100g,239 cal,1004 kJ
+Tropical&ExoticFruits,Watermelon,100g,30 cal,126 kJ
