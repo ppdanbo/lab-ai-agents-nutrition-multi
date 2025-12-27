@@ -40,7 +40,7 @@ https://upload.wikimedia.org/wikipedia/commons/e/e3/Udemy_logo.svg
 ## Deployment
 Here is the command:
 ```
-chainlit run chatbot/4_authentication.py --port 10000 --host 0.0.0.0
+cd chatbot && chainlit run 5_authentication.py --port 10000 --host 0.0.0.0
 ```
 
 ## AgentBuilder
